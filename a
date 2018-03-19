@@ -1,0 +1,89 @@
+[33mcommit 0db56a2140385d879c95193b7f6ced91fda33c65[m[33m ([m[1;36mHEAD -> [m[1;32mdevelop[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Langrim <kostuy.dudkov@gmail.com>
+Date:   Mon Mar 19 22:47:18 2018 +0300
+
+    Revert "add destiny"
+    
+    This reverts commit cddd2ce42e6c987b5a21e39a0b0e2d48397b7dbb.
+
+[33mcommit 6d7aa576101d3d8488591cc7388f75d87ff6467b[m
+Author: Langrim <kostuy.dudkov@gmail.com>
+Date:   Mon Mar 19 20:44:42 2018 +0300
+
+    Revert "add destiny"
+    
+    This reverts commit cddd2ce42e6c987b5a21e39a0b0e2d48397b7dbb.
+
+[33mcommit d27415e2d99aed40de76bc3b1abcb969a140fe9e[m
+Author: Langrim <kostuy.dudkov@gmail.com>
+Date:   Mon Mar 19 20:43:59 2018 +0300
+
+    Revert "add destiny"
+    
+    This reverts commit cddd2ce42e6c987b5a21e39a0b0e2d48397b7dbb.
+
+[33mcommit 15181fc2864db0acccbc964ed3d8bb937ba12887[m
+Author: Langrim <kostuy.dudkov@gmail.com>
+Date:   Mon Mar 19 20:24:43 2018 +0300
+
+    add my revenge
+
+[33mcommit 429bb5f8e2e9f40e58ef2271c710314d49376380[m
+Author: Langrim <kostuy.dudkov@gmail.com>
+Date:   Mon Mar 19 20:25:32 2018 +0300
+
+    add destiny
+
+[33mcommit d54cc268a998e2e7cee730d523848b641d2f71a0[m
+Author: Langrim <kostuy.dudkov@gmail.com>
+Date:   Mon Mar 19 20:24:43 2018 +0300
+
+    add my revenge
+
+[33mcommit fec368f8bd98b0fc128bee087cdb98675568aa9c[m
+Author: Langrim <kostuy.dudkov@gmail.com>
+Date:   Mon Mar 19 20:22:33 2018 +0300
+
+    add new BUP file
+
+[33mcommit b70d4c6e1d77776293635d30e19b77933698cf3e[m
+Author: Langrim <kostuy.dudkov@gmail.com>
+Date:   Mon Mar 19 20:21:31 2018 +0300
+
+    add new string
+
+[33mcommit 8b5e0deaf194039f21d5913ab71e59291f2031e6[m
+Author: Langrim <kostuy.dudkov@gmail.com>
+Date:   Mon Mar 19 20:20:49 2018 +0300
+
+    add new txtfile
+
+[33mcommit bb2b127d7395e6a519b4d5829d46b497cde181c2[m[33m ([m[1;31morigin/develop[m[33m)[m
+Author: Langrim <kostuy.dudkov@gmail.com>
+Date:   Mon Mar 19 12:21:12 2018 +0300
+
+    develop commit
+
+[33mcommit 249d6088bad0fd45e0319d4c7be3e1660cf8a6ee[m
+Author: Langrim <kostuy.dudkov@gmail.com>
+Date:   Mon Mar 19 12:15:30 2018 +0300
+
+    new commit in develop
+
+[33mcommit ac883a2866ecc0ec76920759071e6a0044c50b58[m
+Author: Kostuy Dudkov <kostuy.dudkov@gmail.com>
+Date:   Sun Mar 18 23:18:54 2018 +0300
+
+    abra
+
+[33mcommit c43112113dd385e988155733d326cb47f915328d[m
+Author: Kostuy Dudkov <kostuy.dudkov@gmail.com>
+Date:   Sun Mar 18 23:16:13 2018 +0300
+
+    third commit
+
+[33mcommit 47fc5c6a80909def0bd8f5cf2db9be42f1db9c34[m
+Author: Kostuy Dudkov <kostuy.dudkov@gmail.com>
+Date:   Sun Mar 18 20:06:24 2018 +0300
+
+    second commit
