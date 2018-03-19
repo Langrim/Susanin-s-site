@@ -1,3 +1,7 @@
 my size
+<<<<<<< HEAD
 my revenge
 my destiny
+=======
+my revenge
+>>>>>>> 924a506... add my revenge
